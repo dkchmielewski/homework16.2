@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public enum CardDeck {
     KIER("serce", "heart", CardType.figurePolish(), CardType.figureEnglish()),
     KARO("dzwon", "diamond", CardType.figurePolish(), CardType.figureEnglish()),
