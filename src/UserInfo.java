@@ -18,3 +18,5 @@ public class UserInfo {
         } else System.out.println("Wrong input");
     }
 }
+
+//test

@@ -24,3 +24,5 @@ public class CardType {
         return figure;
     }
 }
+
+//test
